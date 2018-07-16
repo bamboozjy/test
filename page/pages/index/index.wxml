@@ -1,0 +1,105 @@
+<!--index.wxml-->
+<view class="all">
+
+  <view class='nav1'>
+    <view class='top'>R E C O M M E N D</view>
+    <view class='bot'>为你推荐</view>
+  </view>
+
+  <view class='nav2'>
+    <view class='tit'>新品首发</view>
+    <image src='../img/tupian-1.png'></image>
+  </view>
+
+  <view class='nav3'>
+    <view class='left'>
+     <image src='../img/tupian-2@2x.png'></image>
+     <view>快讯问答</view>
+    </view>
+    <view class='right'>
+     <view>查看更多</view>
+     <image src='../img/biaoti-4@2x.png'></image>
+    </view>
+  </view>
+
+  <view class='nav4'>     
+    <image src='../img/tupian-3@2x.png'></image>
+    <view>新品上架</view>
+  </view>
+
+  <view class='nav5'>
+    <view class='left'>
+     <image src=''></image>
+     <view>快讯问答</view>
+    </view>
+    <view class='right'>
+     <view>查看更多</view>
+     <image src='../img/biaoti-4@2x.png'></image>
+    </view>
+  </view>
+
+  <view class='nav6'>
+    <view class='left'>
+     <view>新品首发</view>
+    </view>
+    <view class='right'>
+     <view>MORE</view>
+     <image src='../img/biaoti-4@2x.png'></image>
+    </view>
+  </view>
+
+  <view class='nav7'>
+     <image src='../img/biaoti-5@2x.png'></image>
+     <view>新品首发</view>
+     <image src='../img/biaoti-5@2x.png'></image>
+  </view>
+
+  <view class='nav8'>
+     <image src='../img/biaoti-6@2x.png' class='left'></image>
+     <view>
+      <view class='top'>精品推荐</view>
+      <view class='bot'>3月10日上新</view>
+     </view>
+     <image src='../img/biaoti-4@2x.png' class='right'></image>
+  </view>
+
+  <view class='nav9'>
+     <image src='../img/biaoti-7@2x.png'></image>
+     <view>新品首发</view>
+     <image src='../img/biaoti-7@2x.png'></image>
+  </view>
+
+  <view class='nav10'>每周精选  COLLECTION</view>
+
+  <view class='nav11'>
+     <image src='../img/biaoti-8@2x.png'></image>
+     <view>最新活动</view>
+  </view>
+
+  <view class='nav12'>     
+    <image src='../img/biaoti-10@2x.png'></image>
+    <view>
+      <view class='top'>好 店 任 你 挑</view>
+      <view class='bot'>客户热评，实时排名</view>
+    </view>
+  </view>
+
+  <view class='nav13'>     
+    <image src='../img/biaoti-11@2x.png'></image>
+    <view>
+      <view class='top'>百 货 优 质 选</view>
+      <view class='bot'>客户热评，实时排名</view>
+    </view>
+  </view>
+
+  <view class='nav14'>     
+    <image src='../img/biaoti-9@2x.png'></image>
+    <view class='con'>
+      <view class='top'>郁金香</view>
+      <view class='borde'></view> 
+      <view class='mid'>殿春</view>
+      <view class='bot'>Be distressed at parting</view>
+    </view>
+  </view>
+
+</view>

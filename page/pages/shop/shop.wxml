@@ -1,0 +1,98 @@
+<!--index.wxml--><view class="all">
+  
+  <view class='navPic'>
+    <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530782669514&di=f4b379a16fd6ee0e8798b2a6667e2bed&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F010b6d56a7c5846ac7256cb0bf4c59.jpg%402o.jpg'></image>
+  </view>
+  <view class='main'>
+    <view class='nav bgbrmr fx'>
+      <view class='item fx'>
+        <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530787847021&di=69622f3bbd6610ebfb923ec8b93a25bc&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0148a65a531d46a8012180c5dd9fc2.jpg%401280w_1l_2o_100sh.jpg'></image>
+        <view>手机商城手机商城</view>
+      </view>
+      <view class='item fx'>
+        <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530787847021&di=69622f3bbd6610ebfb923ec8b93a25bc&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0148a65a531d46a8012180c5dd9fc2.jpg%401280w_1l_2o_100sh.jpg'></image>
+        <view>手机资讯</view>
+      </view>
+      <view class='item fx'>
+        <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530787847021&di=69622f3bbd6610ebfb923ec8b93a25bc&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0148a65a531d46a8012180c5dd9fc2.jpg%401280w_1l_2o_100sh.jpg'></image>
+        <view>活动报名</view>
+      </view>
+      <view class='item fx'>
+        <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530787847021&di=69622f3bbd6610ebfb923ec8b93a25bc&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0148a65a531d46a8012180c5dd9fc2.jpg%401280w_1l_2o_100sh.jpg'></image>
+        <view>店铺信息</view>
+      </view>
+    </view>
+
+    <view class='store bgbrmr'>
+      <view class='top'>
+        <text class='tit'>店铺信息 </text> 
+        <text> Store information</text>
+      </view>
+      <view class='bot fx'>
+        <view class='b-left'>
+          <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530787847021&di=69622f3bbd6610ebfb923ec8b93a25bc&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0148a65a531d46a8012180c5dd9fc2.jpg%401280w_1l_2o_100sh.jpg'></image>
+        </view>
+        <view class='b-right'>
+          <view class='con'>
+           <image src='https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1954669069,2426325538&fm=27&gp=0.jpg' class='cart'></image>
+           <view class='setwidth'>小米体验店庆春广场店</view>
+          </view>
+          <view class='con'>
+           <image src='https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1954669069,2426325538&fm=27&gp=0.jpg' class='cart'></image>
+           <view>0571-81606592</view>
+          </view>
+          <view class='con'>
+           <image src='https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1954669069,2426325538&fm=27&gp=0.jpg' class='cart'></image>
+           <view class='setwidthmore'>上城区庆春路87-1锦和大厦5楼上城区庆春路87上城区庆春路87-1锦和大厦5楼上城区庆春路87上城区庆春路87-1锦和大厦5楼上城区庆春路87-1锦和大厦5楼</view>
+          </view>
+          <view class='btn'>
+           <button>Set out<image src='https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1954669069,2426325538&fm=27&gp=0.jpg' class='cart'></image></button>
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <view class='group bgbrmr'>
+      <view class='top'>
+        <text class='tit'>团购 </text> 
+        <text>Group purchase</text>
+      </view>
+      <view class='bot fx'>
+        <view class='b-left'>
+          <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530787847021&di=69622f3bbd6610ebfb923ec8b93a25bc&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0148a65a531d46a8012180c5dd9fc2.jpg%401280w_1l_2o_100sh.jpg'></image>
+          <view class='size'>HUAWEI P10Pro 6GB + 128GB vfrvtrdhrHUAWEI P10Pro6GB+128GBvfrvtrdhr</view>
+          <view class='typ'>全网通版（极光色）</view>
+        </view>
+        <view class='b-right'>
+          <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530787847021&di=69622f3bbd6610ebfb923ec8b93a25bc&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0148a65a531d46a8012180c5dd9fc2.jpg%401280w_1l_2o_100sh.jpg'></image>
+          <view class='size'>HUAWEI P10Pro 6GB + 128 grbsbHUAWEI P10Pro6GB+128GBvfrvtrdhr</view>
+          <view class='typ'>全网通版（极光色）</view>
+        </view>
+      </view> 
+    </view>
+
+    <view class='recom'>
+      <view class='tit'>产品推荐</view>
+      <view class='english'>Product recommendation</view>
+    </view>
+
+  </view>
+
+  <view class='pro fx'>
+    <block wx:for="{{[1, 2, 3,4]}}">
+      <view class='con'>
+        <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530787847021&di=69622f3bbd6610ebfb923ec8b93a25bc&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0148a65a531d46a8012180c5dd9fc2.jpg%401280w_1l_2o_100sh.jpg'></image>
+        <view class='bot'>
+          <view class='intro'>HUAWEI P10Pro6GB+128GB 全网通版（极光色HUAWEI P10Pro6GB+128GB 全网通版（极光色</view>
+          <!-- <view class='intro size'>HUAWEI P10Pro6GB+128grbsb</view>
+          <view class='intro typ'>全网通版（极光色）</view> -->
+          <view class='msg fx'>
+            <view class='price'>¥5488</view>
+            <image src='https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1954669069,2426325538&fm=27&gp=0.jpg' class='cart'></image>
+          </view>
+        </view>
+      </view>
+    </block>
+  </view>
+
+</view>
